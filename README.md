@@ -3,5 +3,6 @@
 
 Для распознавания человеческой речи я выбрала фреймворк DialogFlow, который также имеет встроенный в него ML.
 Бот распознаёт русскую и английскую речь.
+![Dialogflow - Google Chrome 11_23_2021 5_25_42 PM (3)](https://user-images.githubusercontent.com/65489941/143042569-6d8847b7-5c94-4288-a544-7ce664ce4c86.png)
 Вот примеры тренировочных фраз, которые распознаёт бот:
-![Dialogflow - Google Chrome 11_23_2021 5_25_42 PM](https://user-images.githubusercontent.com/65489941/143042339-20401a8e-864e-4067-ac4f-519f3dea54a5.png)
+![Dialogflow - Google Chrome 11_23_2021 5_25_42 PM (2)](https://user-images.githubusercontent.com/65489941/143042613-7506fe3b-eb3a-4fc7-98e9-ecd5f58f56af.png)
