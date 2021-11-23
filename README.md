@@ -6,7 +6,8 @@
 
 Бот распознаёт русскую и английскую речь.
 
-![Dialogflow - Google Chrome 11_23_2021 5_25_42 PM (3)](https://user-images.githubusercontent.com/65489941/143042569-6d8847b7-5c94-4288-a544-7ce664ce4c86.png)
+![IMG_6181](https://user-images.githubusercontent.com/65489941/143070695-a79edd30-3166-4e77-9577-191ca967c2e5.PNG)
+
 
 Вот примеры тренировочных фраз, которые распознаёт бот:
 
